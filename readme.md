@@ -215,7 +215,7 @@ $HTML; // wrong
 $Html; // wrong
 
 $hackNasa; // correct
-$hackNASAWithHHTL; // wrong
+$hackNASAWithHTML; // wrong
 
 ```
 
